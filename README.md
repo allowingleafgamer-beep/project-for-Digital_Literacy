@@ -1,4 +1,4 @@
-# 📘 Digital Literacy Portfolio
+# 📘 Digital Literacy Project
 
 ## 👤 Student Details
 **Name:** Keshav Soni  
@@ -8,25 +8,25 @@
 ---
 
 ## 📌 Project Overview
-This project is made as part of my role as a Student Digital Ambassador. The main aim of this project is to help students understand how to use digital tools properly and stay safe online. 
+This project is made as part of my role as a Student my course Digital literacy. The main aim is to understand how to use digital tools properly and stay safe online. 
 
-In todays time, everything is going digital, so it is important to know about things like online platforms, email communication and cyber safety. This portfolio includes 5 tasks which cover different areas of digital literacy.
+In this digital world, it is important to know about things like online platforms, email communication and cyber safety. This project includes 5 tasks which cover different areas of digital literacy.
 
 ---
 
 ## 📂 Repository Structure
 
-### 🔹 task-1-presentation
-This contains my infographic/visual slide created using Canva. It explains topics like digital literacy, online tools and internet safety in a simple way.
+## 🔹 task-1-presentation
+This contains my infographic created using Canva. It explains topics like digital literacy, online tools and internet safety in a simple way.
 
 ---
 
-### 🔹 task-2-portfolio
+## 🔹 task-2-portfolio
 In this task, I created my profiles on platforms like GitHub, LinkedIn and Kaggle. Screenshots of my profiles are added here to show my digital presence.
 
 ---
 
-### 🔹 task-3-platforms
+## 🔹 task-3-platforms
 This folder includes my coding practice work and Google Form.  
 - I solved a beginner problem on HackerRank  
 - I created a Digital Literacy quiz using Google Forms  
@@ -34,7 +34,7 @@ This folder includes my coding practice work and Google Form.
 
 ---
 
-### 🔹 task-4-email-etiquette
+## 🔹 task-4-email-etiquette
 This contains:
 - Two professional email drafts  
 - A social media do’s and don’ts checklist  
@@ -43,31 +43,26 @@ This task helped me understand how to communicate properly online.
 
 ---
 
-### 🔹 task-5-cybercrime
+## 🔹 task-5-cybercrime
 This includes:
 - A case study on UPI payment fraud  
-- A prevention checklist  
-- Reflection on cyber safety  
+- A prevention checklist   
 
 This task helped me understand how cybercrime happens and how to stay safe.
 
 ---
 
 ## 🔗 Useful Links
-(Add your links here)
-
-- Google Form Link: (paste here)  
-- LinkedIn Profile: (paste here)  
-- GitHub Profile: (paste here)  
+- Google Form Link: https://forms.gle/U81ebXrh9wFL6sqh6
+- LinkedIn Profile: https://www.linkedin.com/in/keshav-soni-7b6744321/ 
+- GitHub Profile: https://github.com/allowingleafgamer-beep  
 
 ---
 
 ## ✍️ Reflection
-While doing this project, I learned many new things about digital tools and online safety. Earlier I was not very aware about things like professional communication or cyber fraud, but now I understand it better.
-
-This project also helped me improve my presentation and organization skills. I think these skills will be very useful for my future studies and career.
+While doing this project, I got to know many new things about digital tools, online safety and how make online presence. Earlier I was not very aware about things like professional communication or cyber fraud, but now I understand it better.
 
 ---
 
 ## 🚀 Conclusion
-Overall, this Digital Literacy Portfolio helped me to explore different platforms and understand their importance. It also made me more confident in using digital tools and being responsible online.
+Overall, this Digital Literacy project helped me to explore different platforms . It also made me more confident in using digital tools and being responsible online.
