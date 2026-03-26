@@ -1,4 +1,4 @@
-PART A -Email 1 (Extension Request)
+# PART A -Email 1 (Extension Request)
 
 Subject - Request for Assignment Deadline Extension
 
@@ -16,7 +16,7 @@ Yours sincerely,
 Keshav Soni
 BTech AI & ML
 
-PART A -Email 2 (Internship Request)
+# PART A -Email 2 (Internship Request)
 
 Subject - Application for Summer Internship Opportunity
 
@@ -35,18 +35,18 @@ Keshav Soni
 BTech AI & ML
 
 
-PART B - (Social media do's and don'ts)
+# PART B - (Social media do's and don'ts)
 
-Do’s:
-Use respectful language online
-Think before posting anything
-Keep your profile professional
-Verify information before sharing
+# # Do’s:
+- Use respectful language online
+- Think before posting anything
+- Keep your profile professional
+- Verify information before sharing
 
-Don’ts:
-Don’t share personal/private information
-Don’t post offensive or abusive content
-Don’t spread fake news
+# # Don’ts:
+- Don’t share personal/private information
+- Don’t post offensive or abusive content
+- Don’t spread fake news
 
 
 
